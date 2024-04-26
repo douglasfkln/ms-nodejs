@@ -7,3 +7,16 @@
 - Typescript
 - Mongo DB
 - Mongoose
+
+
+## Instalar dependencias
+
+```
+yarn install
+``` 
+
+## Executando o projeto 
+
+```
+yarn start
+``` 

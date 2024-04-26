@@ -1,6 +1,5 @@
 import { Router } from 'express'
 import { getFilms, getFilm, createFilm, deleteFilm, updateFilm } from '../services/films.js'
-// import { FilmDTO } from '../dtos/FilmDTO'
 
 const router = Router()
 
